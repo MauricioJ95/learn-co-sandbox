@@ -9,3 +9,14 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+if (5 > 2) {
+  console.log("5 is greater than 2")
+}
+if (2 > 5) {
+  console.log("2 is greater than 5")
+}
+if (false) {
+  console.log("This will never get printed because the above statement evaluates to false")
+} else {
+  console.log("This will get printed!")
+}
